@@ -1,0 +1,22 @@
+body {
+	font-family: "Jost", sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+    background-image: url(../images/dxndre.jpg);
+    background-size: cover;
+
+	.main-content {
+		text-align: center;
+
+		h1 {
+			font-size: 3em;
+			font-weight: 500;
+		}
+		h2 {
+			font-size: 1.75em;
+			font-weight: 400;
+		}
+	}
+}

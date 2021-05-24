@@ -1,21 +1,22 @@
 body {
-    font-family: "Jost", sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
+  font-family: "Jost", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url(../images/dxndre.jpg);
+  background-size: cover;
 }
-
 body .main-content {
-    text-align: center;
+  text-align: center;
 }
-
 body .main-content h1 {
-    font-size: 3em;
-    font-weight: 500;
+  font-size: 3em;
+  font-weight: 500;
+}
+body .main-content h2 {
+  font-size: 1.75em;
+  font-weight: 400;
 }
 
-body .main-content h2 {
-    font-size: 1.75em;
-    font-weight: 400;
-}
+/*# sourceMappingURL=main.css.map */
