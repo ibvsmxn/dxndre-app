@@ -1,0 +1,20 @@
+{
+    "name": "DXNDRE APP 1",
+    "short_name": "dxndre",
+    "start_url": ".",
+    "background_color": "#0F0F0F",
+    "theme_color": "#bb0000",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/300x300.png",
+            "sizes": "300x300",
+            "type": "image/png" 
+        },
+        {
+            "src": "images/1080x1080.png",
+            "sizes": "1080x1080",
+            "type": "image/png" 
+        }
+    ]
+}
